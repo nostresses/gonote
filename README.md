@@ -5,8 +5,7 @@
 
 ### Installation
 
-1. Install and unzip the archive
-1.2 or use `git clone <repo> <directory>`
+1. Install and unzip the archive or use `git clone <repo> <directory>`
 2. Go to the directory with the project (`cd "gonote"`) and run the command:
 ```sh
 go run cmd/gonote/main.go
