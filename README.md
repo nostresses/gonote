@@ -12,6 +12,13 @@
 go run cmd/gonote/main.go
 ```
 
+### Configuration
+
+> gonote/configs/conf.json
+
+URL for connecting to the MySQL database.
+1. dataSourceName: `<username>`:`<password>`@tcp(`<IP>`:`<PORT>`)/`<db>`?parseTime=true
+
 ### Usage
 
 **Avialable commands**
